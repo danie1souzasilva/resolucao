@@ -1,6 +1,6 @@
-package com.fisica.resolucao.controller;
+package com.fisica.resolucao.mecanica.controller;
 
-import com.fisica.resolucao.dto.*;
+import com.fisica.resolucao.mecanica.dto.*;
 import com.fisica.resolucao.service.CinematicaService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

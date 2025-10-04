@@ -1,4 +1,4 @@
-package com.fisica.resolucao.dto;
+package com.fisica.resolucao.mecanica.dto;
 
 public record ForcaResponse(Double forca) {
 }
